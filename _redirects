@@ -1,0 +1,5 @@
+# Netlify form success redirect
+/success /index.html?success=true 200
+
+# SPA fallback
+/*    /index.html   200
